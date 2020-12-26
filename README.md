@@ -7,7 +7,7 @@ Since running classification models on large image datasets may take hours to pr
     - I set to include 98% of variance in dataset. Got k=444
     - Hence, the size of the dataset will be reduced from *3072 to *444 by using PCA
     - Hence training time was reduced from hours to minutes with minimal reduction in accuracy
-  -### Accuracy Achieved:
+  - ### Accuracy Achieved:
     - SVM: 0.5275333333333333
     - KNN: 0.33253333333333335
     - Decision Tree: 0.2384
