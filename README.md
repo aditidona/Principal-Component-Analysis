@@ -4,7 +4,7 @@ Since running classification models on large image datasets may take hours to pr
   - Dataset: CIFAR-10
   - Initial size of the dataset : 60000 * 32 * 32 * 3 = 60000 * 3072
   - Deciding number of components (k) :
-    - I set to include 98% of variance in dataset. Got k=444
+    - I set to include 98% of variance in dataset. No. of components which constitute of 98% of variance was k = 444
     - Hence, the size of the dataset will be reduced from *3072 to *444 by using PCA
     - Hence training time was reduced from hours to minutes with minimal reduction in accuracy
   - ### Accuracy Achieved:
