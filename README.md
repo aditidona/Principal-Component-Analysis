@@ -28,6 +28,11 @@
         - Random Forest: 0.39026666666666665
 
 ## Screenshots
+![text](k.PNG)
+![text](result.PNG)
+
+![text](test_results.PNG)
+
 
 ## FlowChart
 ![text](Methodology.png)
