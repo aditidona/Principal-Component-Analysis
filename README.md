@@ -30,4 +30,4 @@
 ## Screenshots
 
 ## FlowChart
-
+![text](Methodology.png)
